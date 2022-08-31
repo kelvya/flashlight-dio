@@ -13,3 +13,6 @@ https://user-images.githubusercontent.com/99570969/170380660-0f07e80a-928e-4b92-
 - Hook useEffect
 - Add Listener to RNShake
 - Lifecicly ReactJS
+
+## APK
+Para baixar o arquivo APK [clique aqui](https://github.com/kelvya/flashlight-dio/releases/download/1.0.0/app-release.apk)
